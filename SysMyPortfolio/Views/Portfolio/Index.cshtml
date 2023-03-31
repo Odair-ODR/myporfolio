@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Portfolio";
+}
+
+<div class="container margin-top">
+    <h3 class="container-title">
+        <span class="line"></span>
+        Mis trabajos recientes
+        <span class="line"></span>
+    </h3>
+    <div class="flex-row">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Sistema Tesorería</h5>
+                <p class="card-text">
+                    Desarrollé el registro de ingresos, egresos, transferencias, reportes contables,
+                    registro de planillas, mantenedores en general.
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="1" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Aplicativo movil de venta de repuestos automotrices</h5>
+                <p class="card-text">
+
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="2" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Módulos</h5>
+                <p class="card-text">
+                    Modulos de comisiones de vendedores. <br />
+                    Modulo de seguimiento de planillas. <br />
+                    Módulo de seguimiento de cheques. <br />
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="3" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SysMyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SysMyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\001.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\001.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\002.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\002.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\003.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\003.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\004.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\004.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\005.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\005.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\006.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\006.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\android\\007.jpeg",
+      "PackagePath": "staticwebassets\\img\\android\\007.jpeg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\icons8-android-100.png",
+      "PackagePath": "staticwebassets\\img\\icons8-android-100.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\icons8-c-sharp-logo-100.svg",
+      "PackagePath": "staticwebassets\\img\\icons8-c-sharp-logo-100.svg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\icons8-microsoft-sql-server.svg",
+      "PackagePath": "staticwebassets\\img\\icons8-microsoft-sql-server.svg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\me.png",
+      "PackagePath": "staticwebassets\\img\\me.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\modulos\\mod-001.png",
+      "PackagePath": "staticwebassets\\img\\modulos\\mod-001.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\modulos\\mod-002.png",
+      "PackagePath": "staticwebassets\\img\\modulos\\mod-002.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\modulos\\mod-003.png",
+      "PackagePath": "staticwebassets\\img\\modulos\\mod-003.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\modulos\\mod-004.png",
+      "PackagePath": "staticwebassets\\img\\modulos\\mod-004.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\modulos\\mod-005.png",
+      "PackagePath": "staticwebassets\\img\\modulos\\mod-005.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\python-100.png",
+      "PackagePath": "staticwebassets\\img\\python-100.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-002.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-002.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-003.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-003.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-004.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-004.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-005.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-005.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-006.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-006.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\img\\tesoreria\\tes-007.png",
+      "PackagePath": "staticwebassets\\img\\tesoreria\\tes-007.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\js\\details.js",
+      "PackagePath": "staticwebassets\\js\\details.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\js\\porfolio.js",
+      "PackagePath": "staticwebassets\\js\\porfolio.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\js\\sitedom.js",
+      "PackagePath": "staticwebassets\\js\\sitedom.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\Porfafolio-ODR\\SysMyPortfolio\\SysMyPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SysMyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SysMyPortfolio.props",
+      "PackagePath": "build\\SysMyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SysMyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\SysMyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SysMyPortfolio.props",
+      "PackagePath": "buildTransitive\\SysMyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

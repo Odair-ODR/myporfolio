@@ -1,0 +1,169 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div>
+                <h1>Hola, soy Odair Huamani Conde</h1>
+                <p id="my-resume">
+                    Soy un profesional titulado en la carrera de computación e informática apasionado por el desarrollador de software.
+                    Cuento con más de 3 años de experiencia en la creación de soluciones
+                    de software. Mi enfoque principal se centra en el desarrollo de aplicaciones
+                    web y móviles personalizadas, así como en el diseño y la implementación de bases
+                    de datos.
+                </p>
+            </div>
+            <div class="">
+                <button class="btn btn-outline-main"><i class="bi bi-person-lines-fill"></i> Contáctame</button>
+                <button class="btn btn-outline-main" id="btnDownloadCV">
+                    <i class="bi bi-file-earmark-arrow-down-fill"></i> Descargar
+                    C.V.
+                </button>
+            </div>
+            <div class="social-media">
+                <ul class="">
+                    <li class="social-media-item selected">
+                        <a href="https://www.linkedin.com/in/odair-huamani-conde-600285173/" target="_blank">Linkedin <i class="bi bi-linkedin"></i></a>
+                    </li>
+                    <li class="social-media-item item-before">
+                        <a href="https://github.com/Odair-ODR" target="_blank">GitHub <i class="bi bi-github"></i></a>
+                    </li>
+                    <li class="social-media-item item-before">
+                        <a>Facebook <i class="bi bi-facebook"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6" style="text-align: end;">
+            <img src="~/img/me.png" id="photo" />
+        </div>
+    </div>
+</div>
+<div class="container">
+    <h3 class="container-title">
+        <span class="line"></span>
+        Mis Conocimientos
+        <span class="line"></span>
+    </h3>
+    <div class="flex-row">
+        <div class="card" style="width: 18rem;">
+            <div class="card-img">
+                <img src="/img/icons8-c-sharp-logo-100.svg">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">C#</h5>
+                <div class="scroll-text-container">
+                    <p class="card-text">
+                        Llevo trabajando mas de 3 años con este lenguaje, he ralizado sistemas web y desktop, en la que destaca
+                        un sistema desktop de tesorería. También he realizado el consumo de APIs.
+                    </p>
+                </div>
+            </div>
+            @*<div class="card-footer">
+                <a href="#" class="btn btn-primary">Proyectos relacionados</a>
+            </div>*@
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-img">
+                <img src="~/img/icons8-microsoft-sql-server.svg">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">SQL Server</h5>
+                <div class="scroll-text-container">
+                    <p class="card-text">
+                        Tengo más de 4 años de experiencia en SQL Server. Concidero que tengo un dominio de consultas, ya sea
+                        procedimientos almacenados, funciones, vistas, triggers. También he realizado normalización para creación de tablas.
+                        Entre los proyetos que destaca en el uso de esta herramienta es un sistema de tesorería.
+                    </p>
+                </div>
+            </div>
+            @*<div class="card-footer">
+                <a href="#" class="btn btn-primary">Proyectos relacionados</a>
+            </div>*@
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-img">
+                <img src="~/img/icons8-android-100.png">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Android</h5>
+                <div class="scroll-text-container">
+                    <p class="card-text">
+                        He desarrollado una aplicacion de venta de repuestos automotrices,  dónde destaca, registro de pre-factura, cancelación de factura/boleta y generación de comprobante de pago.
+                        Se empleó lenguaje Kotlin, MVVC, SQL Server, APIs Sunat formato Json.
+                    </p>
+                </div>
+            </div>
+            @*<div class="card-footer">
+                <a href="#" class="btn btn-primary">Proyectos relacionados</a>
+            </div>*@
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-img">
+                <img src="~/img/python-100.png">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Python</h5>
+                <div class="scroll-text-container">
+                    <p class="card-text">
+                        Como proyecto personal he desarrollado un API Rest, dónde destaca el inicio de sesión y generación token, registro de ventas,
+                        mantenedor de usuarios. Se empleó la librería APIFast y SQL Server.
+                    </p>
+                </div>
+            </div>
+            @*<div class="card-footer">
+                <a href="#" class="btn btn-primary">Proyectos relacionados</a>
+            </div>*@
+        </div>
+    </div>
+</div>
+<div class="container margin-top">
+    <h3 class="container-title">
+        <span class="line"></span>
+        Mis trabajos recientes
+        <span class="line"></span>
+    </h3>
+    <div class="flex-row">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Sistema Tesorería</h5>
+                <p class="card-text">
+                    Desarrollé el registro de ingresos, egresos, transferencias, reportes contables,
+                    registro de planillas, mantenedores en general.
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="1" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Aplicativo movil de venta de repuestos automotrices</h5>
+                <p class="card-text">
+
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="2" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">Modulos</h5>
+                <p class="card-text">
+                    Modulos de comisiones de vendedores. <br />
+                    Modulo de seguimiento de planillas. <br />
+                    Módulo de seguimiento de cheques. <br />
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Details" asp-controller="Portfolio" asp-route-id="3" class="btn btn-primary linkAction">Ver más detalle</a>
+            </div>
+        </div>
+    </div>
+    <div class="group-botton-center">
+        <button class="btn btn-main font">Ver totos los proyectos</button>
+    </div>
+</div>
