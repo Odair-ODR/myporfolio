@@ -3,9 +3,8 @@
     ViewData["Title"] = "Details";
 }
 
-
+<h3>@Model.Nombre</h3>
 <div class="row">
-    <h3>@Model.Nombre</h3>
     <div class="col-md-6">
         <div class="mb-3 row">
             <label for="staticEmail" class="col-sm-2 col-form-label">Empresa: </label>
@@ -57,7 +56,7 @@
 </div>
 
 <div class="container">
-    <h3 class="container-title"> 
+    <h3 class="container-title">
         <span class="line"></span>
         Imágenes
         <span class="line"></span>
@@ -66,7 +65,7 @@
         @foreach (var item in Model.Imagenes)
         {
             <div class="card" style="width: @Model.Witdh">
-                <img src="/img/@item" class="det-image"/>
+                <img src="/img/@item" class="det-image" />
             </div>
         }
     </div>
