@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\img\modulos\" />
     <Folder Include="wwwroot\img\tesoreria\" />
+    <Folder Include="wwwroot\files\" />
   </ItemGroup>
 
   <ItemGroup>

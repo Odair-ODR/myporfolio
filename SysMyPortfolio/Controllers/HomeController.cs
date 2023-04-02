@@ -19,7 +19,10 @@ namespace SysMyPortfolio.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
+                return PartialView();
+            else
+                return View();
         }
 
         [HttpGet]
