@@ -22,7 +22,7 @@ namespace SysMyPortfolio.Controllers
             if (Request.Headers["X-Requested-With"] == "XMLHttpRequest")
                 return PartialView();
             else
-                return View();
+            return View();
         }
 
         [HttpGet]

@@ -5,6 +5,18 @@
 
 import * as siteDal from './site.js';
 
+
+//document.querySelectorAll('.nav-item a').forEach((a, index) => {
+//    a.addEventListener('click', (event) => {
+//        /*event.preventDefault();*/
+//        sessionStorage.setItem('selectedNavItem', index);
+//        /*window.location.href = a.href;*/
+//        const state = { selectedIndex: index, href: a.href };
+//        history.pushState(state, '', a.href);
+//    });
+//});
+
+
 document.addEventListener('DOMContentLoaded', function () {
     //> changeSelectedNavItem();
     changeSelectedNavItem();
@@ -33,7 +45,7 @@ function changeSelectedNavItem() {
         })
     } else {
         navItemli[0].classList.add('selected')
-    }
+}
 
     const menu2 = document.getElementById("menu-dropdown")
     navItemli = menu2 != null ? [...menu2.querySelectorAll('.nav-item')] : [];
@@ -53,6 +65,45 @@ function changeSelectedNavItem() {
     }
 }
 
+
+//function changeSelectedMenuOption() {
+//    var selectedIndex = sessionStorage.getItem('selectedNavItem');
+//    if (selectedIndex !== null) {
+//        var navItems = document.querySelectorAll('.nav-item');
+//        navItems.forEach((item, index) => {
+//            if (index === parseInt(selectedIndex)) {
+//                item.classList.add('selected');
+//            } else {
+//                item.classList.remove('selected');
+//            }
+//        });
+//    }
+
+//}
+
+
+//// agregar evento popstate
+//window.addEventListener('popstate', function (event) {
+//    // obtener el índice del menú seleccionado del estado de la historia
+//    var state = event.state;
+//    if (state != null) {
+//        sessionStorage.setItem('selectedNavItem', state.selectedIndex);
+//        window.location.href = state.href;
+//    } else {
+//        sessionStorage.setItem('selectedNavItem', 0);
+//        window.location.href = links[0].href;
+//    }
+//});
+
+//document.querySelectorAll('.linkAction').forEach((a, index) => {
+//    a.addEventListener('click', async (event) => {
+//        event.preventDefault();
+//        const href = a.getAttribute('href');
+//        const html = await siteDal.getView(href);
+//        document.getElementById('mainContentAspview').innerHTML = html;
+//        console.log(html)
+//    });
+//});
 
 //> Activa el onClick a todo los elementos con la clase linkAction que se hayan agregado antes o
 //> descués de cargar el script. 
@@ -104,7 +155,10 @@ window.onpopstate = async function (event) {
         sessionStorage.setItem('selectedNavItem', 0);
         changeSelectedNavItem();
     }
+
+    updateSelectedNavItemOnpopstate(event);
 };
+
 
 function updateSelectedNavItemOnpopstate(event) {
     var selectedIndex = event.state.indexNav;
@@ -122,16 +176,16 @@ function updateSelectedNavItemOnpopstate(event) {
 
 const $btnDownloadCV = document.getElementById('btnDownloadCV');
 if ($btnDownloadCV != null) {
-    $btnDownloadCV.addEventListener('click', async () => {
-        const blob = await siteDal.getFileCVFromAzure();
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'CV_OdairHuamaniConde.pdf';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
+$btnDownloadCV.addEventListener('click', async () => {
+    const blob = await siteDal.getFileCVFromAzure();
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'CV_OdairHuamaniConde.pdf';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
     });
 
 }
@@ -198,7 +252,7 @@ function loadPdf() {
                 });
             });
         });
-    })
+})
 }
 
 function initializeEventsPdf() {
